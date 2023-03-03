@@ -21,8 +21,7 @@
 
 <div style="text-align: left"><p><b>Why the submarines all run Unix?</b> Because you can't open Windows under water.</p></div>
 
-
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DariyaCode&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="200px" width="400px"/>
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=DariyaCode&theme=dark&background=000000" alt="DariyaCode's Github stats" />
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 🛠 **Tools** | 💻 **Language** | ⚙️ **Technology** | 
@@ -85,25 +84,6 @@
 ## Other Stuff
   - :octocat: [My Resume (RU)](https://drive.google.com/drive/folders/1zlUKiCwYcZiwcSy0-GBqbsDDlqCAswcQ?usp=sharing)
   - :octocat: [My Resume (ENG)](https://drive.google.com/drive/folders/1zlUKiCwYcZiwcSy0-GBqbsDDlqCAswcQ?usp=sharing)
-  <!-- GitHub section -->
-
- ##  My GitHub Stats
- 
-<details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=DariyaCode&theme=dark&background=000000" alt="DariyaCode's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="DariyaCode's Github Languages" src="https://github-readme-stats.vercel.app/api?username=DariyaCode&theme=dark&show_icons=true&hide=issues,contribs"/>
-    </td>
-  </tr>
-</table>
-</details>
-
-<!-- GitHub section: END -->
 
 
 
