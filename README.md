@@ -1,6 +1,6 @@
 ## Hey, coding-comrads!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<h1>Welcome to my haunt of coder and artist!!</h1> 
+<h1>Welcome to my haunt of coder and artist!!!</h1> 
 
 
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
@@ -65,7 +65,7 @@
     }
     
     private func createMySocialNet() {
-        // Implementation goes here later...
+        // Implementation goes here later!
     }
     
     private func finishMyVisualNovel() {
