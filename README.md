@@ -40,17 +40,17 @@
  ## Who am I?
  ```swift
  class WhoAmI {
-    var user: String = «Dariya Gecher»
+    var user: String = "Dariya Gecher"
     var current_work: String = "Writing code"
     var hobbies: [String] = [
         "Drawing",
         "Gaming Addict",
         "Blogging",
-        "Being up all Night chasing that ONE BUG..."
+        "Writing my own stories"
     ]
     
     func getCity() -> String {
-        return «Almaty, Kazakhstan»
+        return "Almaty, Kazakhstan"
     }
     
     func ambitions() {
