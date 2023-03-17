@@ -12,7 +12,7 @@
 <div style="text-align: left"><p><b>Why did the private classes break up?</b> Because they never saw each other.</p></div>
 
 ## :computer: Technologies I Love
-* Mobile Development
+* Mobile Development !
 * Game Development
 * Web Development
 * Graphic design
