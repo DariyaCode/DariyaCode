@@ -71,7 +71,7 @@
     private func finishMyVisualNovel() {
         // Implementation goes here later...
     }
-    private func expressYourselfToTheWholeWorld() {
+    private func developMyBlog() {
         // Implementation goes here later...
     }
 }
