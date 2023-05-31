@@ -87,6 +87,7 @@
 ## Other Stuff
   - :octocat: [My Resume (RU)](https://drive.google.com/drive/folders/1zlUKiCwYcZiwcSy0-GBqbsDDlqCAswcQ?usp=sharing)
   - :octocat: [My Resume (ENG)](https://drive.google.com/drive/folders/1zlUKiCwYcZiwcSy0-GBqbsDDlqCAswcQ?usp=sharing)
+  - My languages: English, Russian, Korean
 
 
 
